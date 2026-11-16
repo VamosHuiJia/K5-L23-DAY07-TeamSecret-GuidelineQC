@@ -1,0 +1,11 @@
+classes:
+- person
+- truck
+- car
+- motor_bike
+- other vehicle
+- ignore_object
+- hat mit
+- other vegetables
+- its_a_horse
+- toy
