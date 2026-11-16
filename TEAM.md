@@ -1,6 +1,6 @@
 # Thông tin nhóm
 
-- Tên nhóm:
+- Tên nhóm: K5-L23-DAY07-TeamSecret-GuidelineQC
 - Mã thành viên (ba chữ số):
 - Người điều phối:
 - Người review bản cuối:
