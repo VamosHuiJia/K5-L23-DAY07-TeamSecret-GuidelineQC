@@ -1,8 +1,8 @@
-# Guideline gán nhãn — v0.2 cá nhân — 215
+# Guideline gán nhãn — v0.2 cá nhân — 03215
 
 - Phiên bản: v0.2 — bản nháp cá nhân trước khi họp nhóm
 - Ngày: 16/11/2026
-- Người viết / duyệt: 215 / chưa duyệt, chưa họp thống nhất nhóm
+- Người viết / duyệt: 03215 / chưa duyệt, chưa họp thống nhất nhóm
 - Công cụ dự kiến: CVAT, bounding box hình chữ nhật, xuất COCO 1.0
 
 ## 1. Mục tiêu
@@ -151,7 +151,7 @@ Ba nội dung em muốn đưa vào buổi họp là: có thêm `bus` và `tuk_tu
 | Phiên bản | Thay đổi | Lý do (ca nào) |
 |---|---|---|
 | v0 | Bản khởi đầu do giảng viên cung cấp. | Định nghĩa và quy tắc còn ngắn, có nhiều cách hiểu. |
-| v0.1 — bản nháp 215 | Đề xuất ngưỡng che, quy tắc box, phân biệt vật thật/giả, bổ sung bus/tuk-tuk và các ca cần kiểm tra. | Chuẩn bị ý kiến cá nhân để tự đối chiếu 40 ảnh trước khi họp nhóm. Chưa phải bản đã khảo sát hoặc guideline nhóm đã khóa. |
+| v0.1 — bản nháp 03215 | Đề xuất ngưỡng che, quy tắc box, phân biệt vật thật/giả, bổ sung bus/tuk-tuk và các ca cần kiểm tra. | Chuẩn bị ý kiến cá nhân để tự đối chiếu 40 ảnh trước khi họp nhóm. Chưa phải bản đã khảo sát hoặc guideline nhóm đã khóa. |
 | v0.2 — làm rõ bản nháp trước khi họp | Đưa tiêu đề/cột về mẫu, bổ sung thứ tự xét vật, cách tính mức che, phân biệt ca loại và ca chưa chốt, cùng hướng chuyển sang v1.0. | Tham khảo hướng dẫn trợ giảng; làm rõ các câu hỏi ở `img_002.jpg`, `img_004.jpg`, `img_035.jpg`, `img_037.jpg`. Chưa có thêm kết quả khảo sát ảnh. |
 
 Sau khi tự xem ảnh, em cần sửa lại những quyết định không phù hợp, bổ sung ví dụ mình đã kiểm chứng và giữ bản cá nhân để đối chiếu với kết quả họp nhóm.
