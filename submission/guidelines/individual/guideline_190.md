@@ -1,10 +1,10 @@
-# Guideline gán nhãn — v0.1 đề xuất — 03190
+# Guideline gán nhãn — v0.1 đề xuất — 190
 
 > Bộ lớp trong `individual/classes.md` do người dùng định nghĩa và đã xác nhận. Các quy tắc và quyết định cho từng ca là bản đề xuất; người học cần tự xem ảnh và quyết định nhãn theo quy định Pha 1.
 
 - Phiên bản: v0.1 đề xuất
 - Ngày: 2026-11-16
-- Người viết / duyệt: AI hỗ trợ soạn thảo; người học và người duyệt chưa xác nhận
+- Trạng thái: Bản đề xuất; thành viên 190 và người duyệt chưa xác nhận
 - Loại nhãn: bounding box trên ảnh đường phố
 - Công cụ: CVAT, xuất COCO 1.0
 

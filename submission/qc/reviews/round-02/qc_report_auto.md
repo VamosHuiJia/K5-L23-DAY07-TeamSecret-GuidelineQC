@@ -1,0 +1,83 @@
+# Báo cáo QC tự động
+
+**HOLD**
+
+## Vòng 2 — full
+- Ảnh đã duyệt 0/40; cả lô 40 ảnh.
+- Ảnh có lỗi trên ảnh đã duyệt: 0/0 (N/A).
+- Annotation đối tượng hiện có bị lỗi: 0/0 (N/A).
+- Vật bỏ sót ghi riêng: 0.
+- IAA trước calibration dùng để chẩn đoán; đối chiếu iaa_summary.md.
+- ca_kho: đã duyệt 0/25, ảnh có lỗi 0/0 (N/A).
+- con_lai: đã duyệt 0/15, ảnh có lỗi 0/0 (N/A).
+- Dòng 2: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 3: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 4: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 5: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 6: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 7: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 8: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 9: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 10: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 11: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 12: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 13: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 14: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 15: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 16: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 17: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 18: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 19: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 20: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 21: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 22: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 23: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 24: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 25: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 26: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 27: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 28: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 29: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 30: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 31: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 32: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 33: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 34: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 35: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 36: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 37: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 38: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 39: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 40: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 41: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 42: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 43: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 44: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 45: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 46: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 47: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 48: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 49: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 50: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 51: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 52: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 53: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 54: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 55: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 56: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 57: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 58: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 59: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 60: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 61: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 62: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 63: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 64: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 65: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 66: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 67: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 68: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 69: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Dòng 70: ảnh, loại lỗi hoặc mã reviewer không hợp lệ.
+- Chưa duyệt: img_001.jpg, img_002.jpg, img_003.jpg, img_004.jpg, img_005.jpg, img_006.jpg, img_007.jpg, img_008.jpg, img_009.jpg, img_010.jpg, img_011.jpg, img_012.jpg, img_013.jpg, img_014.jpg, img_015.jpg, img_016.jpg, img_017.jpg, img_018.jpg, img_019.jpg, img_020.jpg, img_021.jpg, img_022.jpg, img_023.jpg, img_024.jpg, img_025.jpg, img_026.jpg, img_027.jpg, img_028.jpg, img_029.jpg, img_030.jpg, img_031.jpg, img_032.jpg, img_033.jpg, img_034.jpg, img_035.jpg, img_036.jpg, img_037.jpg, img_038.jpg, img_039.jpg, img_040.jpg
+- Nhãn cuối còn box đánh dấu can_review.

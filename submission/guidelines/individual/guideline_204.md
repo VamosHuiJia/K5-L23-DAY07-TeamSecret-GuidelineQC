@@ -1,11 +1,11 @@
-# Guideline gán nhãn — v0.1_draft — Thành viên 03204 - Mai Quang Khai
+# Guideline gán nhãn — v0.1_draft — Thành viên 204
 
-> Bản guideline cá nhân của thành viên 101, xây dựng dựa trên khung `TEMPLATE_guideline.md`, slide bài giảng Day 07 và kết quả khảo sát toàn bộ 40 ảnh thực tế trong `data/images/`.
+> Bản guideline cá nhân của thành viên 204, xây dựng dựa trên khung `TEMPLATE_guideline.md`, slide bài giảng Day 07 và kết quả khảo sát toàn bộ 40 ảnh thực tế trong `data/images/`.
 > Mọi quy tắc trong tài liệu này nhằm chuyển hóa các mô tả định tính mơ hồ của bản v0 thành các quy tắc định lượng, nhất quán, có thể kiểm chứng độc lập.
 
 - Phiên bản: v0.1_draft (Khảo sát cá nhân từ v0)
 - Ngày: 2026-11-16
-- Người viết: Thành viên 03204 - Mai Quang Khai
+- Người viết: Thành viên 204
 
 ---
 
