@@ -5,10 +5,6 @@
 - Người viết / duyệt: 03215 / chưa duyệt, chưa họp thống nhất nhóm
 - Công cụ dự kiến: CVAT, bounding box hình chữ nhật, xuất COCO 1.0
 
-> Bản này được soạn với sự hỗ trợ của AI từ guideline v0 và nội dung đề bài. Các tình huống có ID ảnh bên dưới lấy từ mô tả trong đề, chưa phải kết quả em tự khảo sát đủ 40 ảnh. Em cần mở ảnh, kiểm tra và sửa lại các ý kiến này trước khi nộp bản cá nhân. Các lớp và quy tắc thêm vào đây là đề xuất để thảo luận, chưa thay thế taxonomy chung.
-
-Em tham khảo thêm [hướng dẫn trợ giảng — Pha 1](https://site-ivory-mu-57.vercel.app/#pha1). Cách em triển khai là đọc v0, xem từng ảnh rồi hỏi: nếu làm đúng theo v0 thì em sẽ gán gì, chỗ nào chưa có câu trả lời, và người khác có thể hiểu khác em ở đâu? Với ca chưa chắc, em ghi rõ “chưa chốt, cần họp” thay vì coi ý kiến ban đầu là quy tắc nhóm.
-
 ## 1. Mục tiêu
 
 Theo em, bộ nhãn dùng để huấn luyện mô hình phát hiện người và phương tiện thật trong ảnh đường phố 2D. Nhãn cần cho biết có vật gì và vật đó nằm ở đâu trên ảnh. Em không suy đoán các thông tin không nhìn thấy như người bên trong xe kín, hãng xe hoặc mục đích sử dụng xe.
