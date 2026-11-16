@@ -1,0 +1,45 @@
+image,object_id,error_type,reviewer,rule_id,region,note
+img_001.jpg,1,sai_vi_tri_kich_thuoc,,R-01,,Box truck lấy thừa phía trên nóc xe. Chờ 190 xác nhận.
+img_001.jpg,1,sai_thuoc_tinh,,R-12,,Xe bị cắt mép phải/dưới nhưng truncated=no. Chờ 190 xác nhận.
+img_001.jpg,2,sai_thuoc_tinh,,R-12,,"Người đứng trước xe bị cắt chân ở mép dưới, truncated=no. Chờ 190 xác nhận."
+img_002.jpg,,khong,,,,Chưa thấy lỗi rõ khi đối chiếu; chờ 190 xác nhận.
+img_003.jpg,,,,,,"Còn 3 box can_review, cần 190 xác minh."
+img_004.jpg,,khong,,,,Chưa thấy lỗi rõ khi đối chiếu; chờ 190 xác nhận.
+img_005.jpg,43,sai_thuoc_tinh,,R-12,,Người tiền cảnh bị cắt mép dưới nhưng truncated=no. Chờ 190 xác nhận.
+img_005.jpg,45,sai_thuoc_tinh,,R-12,,Người bên trái bị cắt ở mép ảnh nhưng truncated=no. Chờ 190 xác nhận.
+img_005.jpg,47,sai_thuoc_tinh,,R-12,,Người đội mũ xanh bị cắt thân dưới nhưng truncated=no. Chờ 190 xác nhận.
+img_006.jpg,,,,,,"Còn 2 box can_review, cần 190 xác minh."
+img_007.jpg,,khong,,,,Chưa thấy lỗi rõ khi đối chiếu; chờ 190 xác nhận.
+img_008.jpg,80,sai_thuoc_tinh,,R-12,,Người áo cam tiền cảnh bị cắt mép dưới nhưng truncated=no. Chờ 190 xác nhận.
+img_009.jpg,,,,,,"Còn 1 box can_review, cần 190 xác minh."
+img_010.jpg,108,sai_vi_tri_kich_thuoc,,R-01,,Box người đội mũ đỏ thiếu phần chân nhìn thấy phía dưới. Chờ 190 xác nhận.
+img_011.jpg,,,,,,"Còn 3 box can_review, cần 190 xác minh."
+img_012.jpg,,khong,,,,Chưa thấy lỗi rõ khi đối chiếu; chờ 190 xác nhận.
+img_013.jpg,,khong,,,,Chưa thấy lỗi rõ khi đối chiếu; chờ 190 xác nhận.
+img_014.jpg,,,,,,"Còn 6 box can_review, cần 190 xác minh."
+img_015.jpg,,khong,,,,Chưa thấy lỗi rõ khi đối chiếu; chờ 190 xác nhận.
+img_016.jpg,,,,,,"Còn 2 box can_review, cần 190 xác minh."
+img_017.jpg,,khong,,,,Chưa thấy lỗi rõ khi đối chiếu; chờ 190 xác nhận.
+img_018.jpg,174,sai_lop,,R-14,,"Xe Volkswagen thân hộp bên trái là van, bản hiện tại ghi car. Chờ 190 xác nhận."
+img_019.jpg,,,,,,"Còn 6 box can_review, cần 190 xác minh."
+img_020.jpg,,khong,,,,Chưa thấy lỗi rõ khi đối chiếu; chờ 190 xác nhận.
+img_021.jpg,211,sai_thuoc_tinh,,R-12,,Người đội mũ xanh tiền cảnh bị cắt mép dưới nhưng truncated=no. Chờ 190 xác nhận.
+img_022.jpg,,khong,,,,Chưa thấy lỗi rõ khi đối chiếu; chờ 190 xác nhận.
+img_023.jpg,,khong,,,,Chưa thấy lỗi rõ khi đối chiếu; chờ 190 xác nhận.
+img_024.jpg,,khong,,,,Chưa thấy lỗi rõ khi đối chiếu; chờ 190 xác nhận.
+img_025.jpg,,khong,,,,Chưa thấy lỗi rõ khi đối chiếu; chờ 190 xác nhận.
+img_026.jpg,,khong,,,,Chưa thấy lỗi rõ khi đối chiếu; chờ 190 xác nhận.
+img_027.jpg,,khong,,,,Chưa thấy lỗi rõ khi đối chiếu; chờ 190 xác nhận.
+img_028.jpg,,khong,,,,Chưa thấy lỗi rõ khi đối chiếu; chờ 190 xác nhận.
+img_029.jpg,,,,,,"Còn 1 box can_review, cần 190 xác minh."
+img_030.jpg,,,,,,"Còn 8 box can_review, cần 190 xác minh."
+img_031.jpg,,,,,,"Còn 2 box can_review, cần 190 xác minh."
+img_032.jpg,,,,,,"Còn 4 box can_review, cần 190 xác minh."
+img_033.jpg,,khong,,,,Chưa thấy lỗi rõ khi đối chiếu; chờ 190 xác nhận.
+img_034.jpg,,,,,,"Còn 1 box can_review, cần 190 xác minh."
+img_035.jpg,,,,,,"Còn 1 box can_review, cần 190 xác minh."
+img_036.jpg,,bo_sot,,R-02,"[724,151,30,51]",Người thật lộ đầu và thân phía sau cabin xe tải chưa có box. Chờ 190 xác nhận.
+img_037.jpg,,,,,,"Còn 1 box can_review, cần 190 xác minh."
+img_038.jpg,,khong,,,,Chưa thấy lỗi rõ khi đối chiếu; chờ 190 xác nhận.
+img_039.jpg,,,,,,"Còn 3 box can_review, cần 190 xác minh."
+img_040.jpg,,,,,,"Còn 1 box can_review, cần 190 xác minh."

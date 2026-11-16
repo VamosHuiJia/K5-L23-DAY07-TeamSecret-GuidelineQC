@@ -1,0 +1,322 @@
+case_id,image,quyet_dinh,quy_tac_ghi_vao_guideline,phien_ban_guideline,nguoi_chot,phieu_sua,kiem_lai,pham_vi
+C001,img_002.jpg,"Bổ sung box [858,315,34,112] cho bản thiếu.",R-02,v1.1,215,"occluded_level=0, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C002,img_002.jpg,"Lấy box 215 làm mốc, siết sát xe.","R-01,R-11",v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C003,img_002.jpg,"Lấy box 204 làm mốc, bao bánh nhìn thấy.","R-01,R-11",v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C004,img_002.jpg,"Lấy box 215 làm mốc, giữ nóc và bánh thật nhìn thấy.","R-01,R-11",v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C005,img_002.jpg,"Lấy box 215 làm mốc, kiểm thêm phần bánh sau.","R-01,R-11",v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C006,img_002.jpg,Đề xuất: Giữ car; sửa mức che.,"R-01,R-11",v1.1,215,"Siết theo phần xe còn thấy; occluded_level=2, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C007,img_002.jpg,Đổi occluded_level từ 0 thành 1.,R-11,v1.1,215,truncated=no.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C008,img_002.jpg,Đổi occluded_level từ 0 thành 1.,R-11,v1.1,215,truncated=no.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C009,img_002.jpg,"Lấy box 215 làm mốc, siết sát xe.","R-01,R-11",v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C010,img_002.jpg,"Lấy box 204 làm mốc, bao bánh nhìn thấy.","R-01,R-11",v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C011,img_002.jpg,"Lấy box 215 làm mốc, giữ nóc và bánh thật nhìn thấy.","R-01,R-11",v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C012,img_002.jpg,"Lấy box 215 làm mốc, kiểm thêm phần bánh sau.","R-01,R-11",v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C013,img_002.jpg,Đề xuất: Giữ car; sửa mức che.,"R-01,R-11",v1.1,215,"Siết theo phần xe còn thấy; occluded_level=2, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C014,img_003.jpg,Bổ sung xe 199 cho bản thiếu.,"R-02,R-11",v1.1,215,"siết box theo xe, occluded_level=2.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C015,img_003.jpg,"Giữ box 199 làm mốc, loại chân người/mặt đường.","R-01,R-02,R-11",v1.1,215,occluded_level=2.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C016,img_003.jpg,Bổ sung box 215.,"R-02,R-11",v1.1,215,occluded_level=1 vì bị người/xe tiền cảnh che.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C017,img_003.jpg,"Đề xuất: Tạm giữ person, còn cờ review.","R-02,R-07,R-13",v1.1,215,Giữ can_review=true để xác minh người đội mũ sau xe.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C018,img_003.jpg,Bổ sung xe của 215.,"R-02,R-11",v1.1,215,"occluded_level=2, không gộp người ngồi vào box.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C019,img_003.jpg,Giữ xe của 215.,"R-01,R-11",v1.1,215,"siết theo phần xe, occluded_level=1; kiểm đủ gương.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C020,img_003.jpg,Giữ xe của 215.,"R-01,R-11",v1.1,215,"occluded_level=2, kiểm ranh giới với xe x874.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C021,img_003.jpg,Giữ xe của 215.,"R-01,R-11",v1.1,215,"occluded_level=2, tách khỏi hai xe đỗ bên phải.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C022,img_003.jpg,Box 215 bao phần đầu tốt hơn.,"R-01,R-11",v1.1,215,"siết theo người, occluded_level=2, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C023,img_003.jpg,Box 215 làm mốc.,"R-01,R-11",v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C024,img_003.jpg,"Box 215 làm mốc, không kéo xuống phần xe.","R-01,R-11",v1.1,215,"occluded_level=2, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C025,img_003.jpg,"Siết box quanh người và nón, bỏ xe màu cam cạnh phải.","R-01,R-11",v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C026,img_003.jpg,Vẽ lại bicycle sát phần thấy.,"R-01,R-06,R-11,R-12",v1.1,215,"Box [0,225,417,314]; truncated=yes, occluded_level=2.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C027,img_003.jpg,"Lấy box 215 làm mốc, truncated=yes, occluded_level=1.","R-01,R-11,R-12",v1.1,215,không suy truncated=no từ tọa độ box chưa chạm biên.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C028,img_003.jpg,Đặt truncated=yes.,R-12,v1.1,215,"giữ box sát người, không gộp xe đạp.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C029,img_003.jpg,"Đặt occluded_level=2, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C030,img_003.jpg,"Đặt truncated=yes, occluded_level=1.","R-11,R-12",v1.1,215,box không bao giỏ hàng.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C031,img_003.jpg,"Giữ car, occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C032,img_003.jpg,Đề xuất: Giữ person sát cạnh trái.,"R-11,R-12",v1.1,215,"truncated=yes, occluded_level=2; box chỉ lấy người.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C033,img_003.jpg,Box 215 bao phần đầu tốt hơn.,"R-01,R-11",v1.1,215,"siết theo người, occluded_level=2, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C034,img_003.jpg,Box 215 làm mốc.,"R-01,R-11",v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C035,img_003.jpg,"Box 215 làm mốc, không kéo xuống phần xe.","R-01,R-11",v1.1,215,"occluded_level=2, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C036,img_003.jpg,"Siết box quanh người và nón, bỏ xe màu cam cạnh phải.","R-01,R-11",v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C037,img_003.jpg,Vẽ lại bicycle sát phần thấy.,"R-01,R-06,R-11,R-12",v1.1,215,"Box [0,225,417,314]; truncated=yes, occluded_level=2.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C038,img_003.jpg,"Lấy box 215 làm mốc, truncated=yes, occluded_level=1.","R-01,R-11,R-12",v1.1,215,không suy truncated=no từ tọa độ box chưa chạm biên.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C039,img_004.jpg,Bổ sung box 204.,"R-02,R-11",v1.1,215,"occluded_level=2, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C040,img_004.jpg,"Bổ sung box 204, siết phần chân nhìn thấy, không bao thân xe.","R-01,R-02,R-11",v1.1,215,occluded_level=2.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C041,img_006.jpg,"Thu box theo người, dùng C049 làm tham chiếu.","R-01,R-02,R-11",v1.1,215,"occluded_level=2, không tạo hai box cùng người.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C042,img_006.jpg,Bổ sung xe của 199.,"R-02,R-11",v1.1,215,"siết phần bánh/thân, occluded_level=1.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C043,img_006.jpg,Đề xuất: Gộp cùng xe đạp vàng C045.,"R-01,R-12",v1.1,215,"Bỏ box lệch lẫn chân người; vẽ một bicycle sát xe, truncated=yes.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C044,img_006.jpg,"Giữ person 215, truncated=yes.","R-02,R-12",v1.1,215,kiểm phần bị người khác che.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C045,img_006.jpg,"Giữ bicycle 215 làm mốc, kiểm phần còn lại sau chân người.","R-01,R-02,R-11",v1.1,215,occluded_level=2.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C046,img_006.jpg,"Bổ sung person 215, occluded_level=2, truncated=no.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C047,img_006.jpg,"Bổ sung bicycle 215, occluded_level=2.","R-02,R-11",v1.1,215,bỏ phần cánh tay người khỏi box.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C048,img_006.jpg,Bổ sung person 215.,"R-02,R-11",v1.1,215,"occluded_level=3, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C049,img_006.jpg,Giữ một person.,"R-01,R-02,R-11",v1.1,215,"box 215 sát phần thấy hơn, occluded_level=2.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C050,img_006.jpg,Bổ sung bicycle 215.,"R-02,R-11",v1.1,215,"occluded_level=2, không gộp xe máy cạnh bên.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C051,img_006.jpg,Thu box 215 bỏ lưng người tiền cảnh.,"R-02,R-11",v1.1,215,occluded_level=3.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C052,img_006.jpg,Bổ sung bicycle 215.,"R-02,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C053,img_006.jpg,Bổ sung motorcycle 215.,"R-02,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C054,img_006.jpg,Bổ sung person 215.,"R-02,R-11",v1.1,215,"occluded_level=1, tách khỏi xe.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C055,img_006.jpg,Vẽ lại box sát người áo vàng và chân nhìn thấy.,"R-01,R-02,R-11",v1.1,215,giữ người lái thành box riêng C062/C070.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C056,img_006.jpg,"Lấy box 199 làm mốc, siết quanh người.","R-01,R-11",v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C057,img_006.jpg,"Lấy box 215 làm mốc, giữ bàn chân trái nhìn thấy.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C058,img_006.jpg,"Lấy box 215, giữ phần đầu xe nếu nhìn thấy.","R-01,R-11",v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C059,img_006.jpg,"Lấy box 215 làm mốc, kiểm gương/tay lái.","R-01,R-11",v1.1,215,"occluded_level=2, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C060,img_006.jpg,"Box 215 làm mốc, kéo tới mép dưới.","R-01,R-11,R-12",v1.1,215,"truncated=yes, occluded_level=2.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C061,img_006.jpg,"Siết theo gương, thân và bánh xe.","R-01,R-11",v1.1,215,"occluded_level=2, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C062,img_006.jpg,"Vẽ box riêng người lái, giữ phần chân đúng người.","R-01,R-02,R-11",v1.1,215,occluded_level=2.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C063,img_006.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C064,img_006.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,không gộp chân người.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C065,img_006.jpg,"Đặt truncated=yes, occluded_level=1.","R-11,R-12",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C066,img_006.jpg,"Lấy box 215, giữ phần đầu xe nếu nhìn thấy.","R-01,R-11",v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C067,img_006.jpg,"Lấy box 215 làm mốc, kiểm gương/tay lái.","R-01,R-11",v1.1,215,"occluded_level=2, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C068,img_006.jpg,"Box 215 làm mốc, kéo tới mép dưới.","R-01,R-11,R-12",v1.1,215,"truncated=yes, occluded_level=2.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C069,img_006.jpg,"Siết theo gương, thân và bánh xe.","R-01,R-11",v1.1,215,"occluded_level=2, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C070,img_006.jpg,"Vẽ box riêng người lái, giữ phần chân đúng người.","R-01,R-02,R-11",v1.1,215,occluded_level=2.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C071,img_007.jpg,Xóa box person của 215.,R-07,v1.1,215,không thay bằng ignore.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C072,img_007.jpg,Đổi car của 215 thành truck.,"R-01,R-14",v1.1,215,"lấy box 204 làm mốc gồm kết cấu thùng xe, bỏ bóng/sàn.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C073,img_007.jpg,Đổi car của 215 thành truck.,"R-01,R-14",v1.1,215,"lấy box 204 làm mốc gồm kết cấu thùng xe, bỏ bóng/sàn.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C074,img_007.jpg,Đặt truncated=yes.,R-12,v1.1,215,"giữ truck, occluded_level=0.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C075,img_009.jpg,Đề xuất: Tạm giữ người trong cửa hàng.,R-02,v1.1,215,Giữ person 215 và can_review=true; kiểm lại vùng tối.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C076,img_009.jpg,"Bổ sung motorcycle 215, occluded_level=1.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C077,img_009.jpg,"Bổ sung person 215, occluded_level=2, truncated=no.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C078,img_009.jpg,"Bổ sung person 215, occluded_level=2, truncated=no.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C079,img_009.jpg,"Siết theo person, không lấy bánh xe.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C080,img_009.jpg,"Box 215 làm mốc, occluded_level=2, truncated=no.","R-01,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C081,img_009.jpg,"Đặt truncated=yes, occluded_level=1.","R-11,R-12",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C082,img_009.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C083,img_009.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,kiểm biên phần đầu xe.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C084,img_009.jpg,Đặt truncated=yes.,"R-11,R-12",v1.1,215,occluded_level=0 nếu không có vật khác che.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C085,img_009.jpg,"Giữ person, occluded_level=2, truncated=no.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C086,img_009.jpg,"Siết theo person, không lấy bánh xe.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C087,img_009.jpg,"Giữ person, occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C088,img_009.jpg,"Box 215 làm mốc, occluded_level=2, truncated=no.","R-01,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C089,img_011.jpg,"Đề xuất: Tạm giữ motorcycle, còn cờ review.","R-07,R-13",v1.1,215,Giữ can_review=true; 190 phân biệt xe thật và vật trưng bày.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C090,img_011.jpg,Đề xuất: Giữ review về lớp xe ba bánh.,"R-07,R-13,R-14",v1.1,215,Không tự đổi sang tuk_tuk; giữ can_review=true để 190 chốt lớp.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C091,img_011.jpg,Đề xuất: Giữ review cho cụm xe trưng bày.,"R-07,R-13,R-14",v1.1,215,Không tự tắt can_review trước khi phân biệt phương tiện và mô hình.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C092,img_011.jpg,"Bổ sung person 215, occluded_level=1, truncated=no.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C093,img_011.jpg,"Bổ sung person 215, occluded_level=1.","R-02,R-11",v1.1,215,bỏ thanh kim loại trước người khỏi box.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C094,img_011.jpg,"Bổ sung person 215, occluded_level=2.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C095,img_011.jpg,Bổ sung person 215.,R-02,v1.1,215,"occluded_level=0, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C096,img_011.jpg,"Bổ sung person 215, occluded_level=1.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C097,img_011.jpg,"Bổ sung person 215, occluded_level=1.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C098,img_011.jpg,"Bổ sung person 215, occluded_level=0.",R-02,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C099,img_011.jpg,"Siết box theo tay/chân thật, occluded_level=0.","R-01,R-02",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C100,img_011.jpg,"Bổ sung person 215, occluded_level=1.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C101,img_011.jpg,"Siết mỗi người thành box riêng, occluded_level=1.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C102,img_011.jpg,"Bổ sung person 215, occluded_level=1.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C103,img_011.jpg,Đề xuất: Đổi xe cứu thương thành van.,"R-01,R-11,R-14",v1.1,215,"Siết theo phần xe còn thấy; occluded_level=2, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C104,img_011.jpg,"Đề xuất: Tạm giữ motorcycle, còn cờ review.","R-07,R-13",v1.1,215,Giữ can_review=true; 190 phân biệt xe thật và vật trưng bày.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C105,img_011.jpg,Đề xuất: Giữ review về lớp xe ba bánh.,"R-07,R-13,R-14",v1.1,215,Không tự đổi sang tuk_tuk; giữ can_review=true để 190 chốt lớp.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C106,img_011.jpg,Đề xuất: Giữ review cho cụm xe trưng bày.,"R-07,R-13,R-14",v1.1,215,Không tự tắt can_review trước khi phân biệt phương tiện và mô hình.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C107,img_011.jpg,"Lấy box 215, occluded_level=1, truncated=no.","R-01,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C108,img_011.jpg,Đề xuất: Đổi xe cứu thương thành van.,"R-01,R-11,R-14",v1.1,215,"Siết theo phần xe còn thấy; occluded_level=2, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C109,img_011.jpg,"Giữ person, occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C110,img_011.jpg,"Giữ person, occluded_level=1.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C111,img_011.jpg,"Giữ person, occluded_level=1.",R-11,v1.1,215,không gộp túi nhô ra xa vào box.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C112,img_011.jpg,"Lấy box 215, occluded_level=1, truncated=no.","R-01,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C113,img_011.jpg,Đề xuất: Đổi xe cứu thương thành van.,"R-01,R-11,R-14",v1.1,215,"Siết theo phần xe còn thấy; occluded_level=2, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C114,img_012.jpg,"Đề xuất occluded_level=2, truncated=no.","R-11,R-13",v1.1,215,reviewer xác nhận rồi tắt cờ.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C115,img_012.jpg,"Đặt truncated=yes, occluded_level=0.",R-12,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C116,img_012.jpg,Đặt occluded_level=2.,R-11,v1.1,215,"siết box theo phần thùng, bánh/đuôi còn thấy.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C117,img_012.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C118,img_014.jpg,Đề xuất: Giữ person bị nhòe giữa ảnh.,"R-02,R-11,R-13",v1.1,215,"Siết theo dáng người; không lấy xe, không tính nhòe là che.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C119,img_014.jpg,Đề xuất: Giữ person sát mép phải.,"R-02,R-12,R-13",v1.1,215,"truncated=yes; siết theo người, không lấy phần xe.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C120,img_014.jpg,Đề xuất: Giữ motorcycle sát mép phải.,"R-01,R-12,R-13",v1.1,215,"truncated=yes; lấy phần xe còn thấy, bỏ chân người.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C121,img_014.jpg,Đề xuất: Giữ motorcycle bị che giữa ảnh.,"R-01,R-11,R-13",v1.1,215,"Siết theo xe; occluded_level=1, không lấy người đứng trước.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C122,img_014.jpg,Đề xuất: Giữ person bị nhòe giữa ảnh.,R-13,v1.1,215,"Siết theo dáng người; không lấy xe, không tính nhòe là che.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C123,img_014.jpg,Đề xuất: Giữ person sát mép phải.,"R-12,R-13",v1.1,215,"truncated=yes; siết theo người, không lấy phần xe.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C124,img_014.jpg,Đề xuất: Giữ motorcycle sát mép phải.,"R-12,R-13",v1.1,215,"truncated=yes; lấy phần xe còn thấy, bỏ chân người.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C125,img_014.jpg,Đề xuất: Giữ motorcycle bị che giữa ảnh.,"R-11,R-13",v1.1,215,"Siết theo xe; occluded_level=1, không lấy người đứng trước.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C126,img_015.jpg,Box 215 sát hơn.,"R-01,R-11",v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C127,img_015.jpg,"Đặt truncated=yes, occluded_level=0.",R-12,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C128,img_015.jpg,"Đặt truncated=yes, occluded_level=0.",R-12,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C129,img_015.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C130,img_015.jpg,Đề xuất: Giữ car trắng sát cạnh trái.,"R-11,R-12",v1.1,215,"truncated=yes, occluded_level=1; không đổi sang van.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C131,img_015.jpg,Đề xuất: Giữ car trắng phía xa.,R-11,v1.1,215,"occluded_level=2, truncated=no; xe chạy ngang che phần trước.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C132,img_015.jpg,Box 215 sát hơn.,"R-01,R-11",v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C133,img_016.jpg,"Bổ sung box 199, occluded_level=2.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C134,img_016.jpg,Đề xuất: Giữ tài xế sau cô gái.,"R-02,R-11,R-13",v1.1,215,occluded_level=2; giữ can_review=true cho biên tay sát mép phải.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C135,img_016.jpg,Đề xuất: Tạm giữ phần đầu người góc trái dưới.,"R-02,R-12,R-13",v1.1,215,"truncated=yes, can_review=true; không suy đoán thân ngoài ảnh.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C136,img_016.jpg,"Đổi car của 215 thành truck, lấy box 199 làm mốc.","R-01,R-11,R-12,R-14",v1.1,215,"truncated=yes, occluded_level=1.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C137,img_016.jpg,"Lấy box 215 làm mốc, mở đúng phần mái nhìn thấy.","R-01,R-12",v1.1,215,"truncated=yes, occluded_level=0.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C138,img_016.jpg,"Đổi car của 215 thành truck, lấy box 199 làm mốc.","R-01,R-11,R-12,R-14",v1.1,215,"truncated=yes, occluded_level=1.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C139,img_016.jpg,"Đặt truncated=yes, occluded_level=0.",R-12,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C140,img_016.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C141,img_016.jpg,Đặt occluded_level=1.,"R-01,R-04,R-11",v1.1,215,"siết box theo xe và bộ phận cố định, bỏ hàng rời.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C142,img_016.jpg,"Đặt truncated=yes, occluded_level=1.","R-11,R-12",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C143,img_016.jpg,"Đặt truncated=yes, occluded_level=2.","R-11,R-12",v1.1,215,không gộp cô gái vào xe.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C144,img_016.jpg,Đề xuất: Giữ tài xế tuk-tuk bên trái.,"R-11,R-12",v1.1,215,"occluded_level=2, truncated=yes; box theo phần người còn thấy.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C145,img_016.jpg,"Đổi car của 215 thành truck, lấy box 199 làm mốc.","R-01,R-11,R-12,R-14",v1.1,215,"truncated=yes, occluded_level=1.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C146,img_016.jpg,"Lấy box 215 làm mốc, mở đúng phần mái nhìn thấy.","R-01,R-12",v1.1,215,"truncated=yes, occluded_level=0.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C147,img_019.jpg,Thu vùng ignore.,R-06,v1.1,215,Không phủ người hàng trước còn gán riêng được.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C148,img_019.jpg,Không bỏ vì nằm trong ignore cũ.,"R-01,R-06,R-11",v1.1,215,"siết box theo người, occluded_level=1.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C149,img_019.jpg,Đề xuất: Tách người phía sau khỏi C159.,"R-01,R-06,R-13",v1.1,215,Vẽ lại theo đầu và thân người phía sau; không gộp người mũ xanh.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C150,img_019.jpg,Thu ignore khỏi người này.,"R-06,R-11",v1.1,215,occluded_level=1 vì trẻ nhỏ/thanh chắn che.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C151,img_019.jpg,Giữ person.,"R-06,R-11",v1.1,215,"occluded_level=2, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C152,img_019.jpg,Siết box phần thấy.,"R-01,R-06,R-11",v1.1,215,"occluded_level=1, bỏ phần nền phía dưới nếu không thấy chân.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C153,img_019.jpg,"Giữ person riêng, occluded_level=1 do tay người lớn và thanh chắn.","R-06,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C154,img_019.jpg,"Giữ person riêng, occluded_level=2.","R-06,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C155,img_019.jpg,Giữ person theo đầu và tay nhìn thấy.,"R-01,R-06,R-11",v1.1,215,occluded_level=2.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C156,img_019.jpg,"Giữ person, occluded_level=1, truncated=no.","R-06,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C157,img_019.jpg,"Giữ person, occluded_level=2.","R-06,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C158,img_019.jpg,"Giữ person, occluded_level=1.","R-06,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C159,img_019.jpg,Đề xuất: Giữ người mũ xanh phía trước.,"R-01,R-06,R-11",v1.1,215,"Vẽ box riêng, occluded_level=1; không trùng người C149.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C160,img_019.jpg,"Giữ person, occluded_level=2.","R-06,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C161,img_019.jpg,"Giữ person, occluded_level=2.","R-06,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C162,img_019.jpg,"Giữ person, occluded_level=2.","R-06,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C163,img_019.jpg,"Giữ person, occluded_level=1.","R-06,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C164,img_019.jpg,"Giữ person riêng, occluded_level=1.","R-06,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C165,img_019.jpg,"Giữ person, occluded_level=1.","R-06,R-11",v1.1,215,bỏ phần thành xe vàng khỏi box.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C166,img_019.jpg,"Bổ sung person 204, truncated=yes, occluded_level=1.","R-02,R-12",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C167,img_019.jpg,"Giữ person 215, truncated=yes, occluded_level=0.","R-02,R-12",v1.1,215,box bao cả phần vai nhìn thấy.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C168,img_019.jpg,Giữ car.,"R-07,R-13",v1.1,215,"nhân vật hoạt hình ngồi cạnh là vật trang trí, không gán person.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C169,img_019.jpg,Đề xuất: Giữ tài xế xe vàng.,"R-01,R-11",v1.1,215,"Lấy box 215; occluded_level=3, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C170,img_019.jpg,Đề xuất: Giữ tài xế xe vàng.,"R-01,R-11",v1.1,215,"Lấy box 215; occluded_level=3, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C171,img_020.jpg,"Xóa car của 215, không thay bằng ignore.",R-07,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C172,img_022.jpg,"Xóa person 204, giữ các bộ phận này trong box motorcycle.","R-02,R-07",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C173,img_022.jpg,Đề xuất: Không thêm person suy đoán trên sidecar.,"R-02,R-13",v1.1,215,Xóa box person 204 chưa nhận dạng chắc người; giữ phần xe.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C174,img_022.jpg,"Lấy box 215 làm mốc, mở tới bánh và gương thật, không bao bóng/đường.","R-01,R-03",v1.1,215,"occluded_level=0, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C175,img_024.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C176,img_024.jpg,"Đặt occluded_level=2, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C177,img_024.jpg,"Đặt truncated=yes, occluded_level=1.","R-11,R-12",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C178,img_024.jpg,"Đặt truncated=yes, occluded_level=2.","R-11,R-12",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C179,img_026.jpg,"Vẽ lại sát đầu, tay, chân người lái.","R-01,R-02,R-11",v1.1,215,"Box riêng người lái; occluded_level=2, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C180,img_026.jpg,Vẽ lại person riêng.,"R-01,R-02",v1.1,215,đề xuất occluded_level=1 vì một phần bị người lái che.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C181,img_026.jpg,"Đặt truncated=yes, occluded_level=2.","R-01,R-11,R-12",v1.1,215,"box gồm gương và phần xe còn thấy, bỏ chân người.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C182,img_026.jpg,"Vẽ lại sát đầu, tay, chân người lái.","R-01,R-02,R-11",v1.1,215,"Box riêng người lái; occluded_level=2, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C183,img_029.jpg,Bổ sung person 215.,"R-02,R-11",v1.1,215,"siết box không gộp xe, occluded_level=1.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C184,img_029.jpg,"Bổ sung person 215, occluded_level=2.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C185,img_029.jpg,"Bổ sung bicycle 215, occluded_level=1.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C186,img_029.jpg,"Bổ sung bicycle 215, occluded_level=2.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C187,img_029.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C188,img_029.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C189,img_029.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C190,img_029.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C191,img_029.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C192,img_029.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C193,img_029.jpg,Đặt occluded_level=1.,"R-01,R-11",v1.1,215,"box phải gồm gương, không chỉ phần thân dưới như 215.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C194,img_030.jpg,Giữ một xe theo box 199 làm mốc.,"R-01,R-11,R-12",v1.1,215,"truncated=yes, occluded_level=2; bỏ xe hàng trước khỏi box.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C195,img_030.jpg,Đề xuất: Vẽ lại box gộp nhiều xe.,"R-01,R-11,R-13",v1.1,215,"Tách theo đầu, yên và bánh của từng xe; phần không tách được dùng ignore.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C196,img_030.jpg,Đề xuất: Bỏ hai box gộp chồng nhau.,"R-01,R-11,R-13",v1.1,215,Vẽ riêng từng motorcycle nhận dạng được; không giữ hai box cùng xe.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C197,img_030.jpg,Đề xuất: Bỏ hai box gộp chồng nhau.,"R-01,R-11,R-13",v1.1,215,Vẽ riêng từng motorcycle nhận dạng được; không giữ hai box cùng xe.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C198,img_030.jpg,Đề xuất: Vẽ riêng xe đỏ hàng giữa.,"R-01,R-11,R-13",v1.1,215,Không bao đèn và thân xe hàng phía sau.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C199,img_030.jpg,"Giữ một xe, truncated=yes, occluded_level=2.","R-01,R-11,R-12",v1.1,215,kiểm khỏi trùng C201.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C200,img_030.jpg,Đề xuất: Bỏ box đang gộp nhiều xe.,"R-01,R-11,R-13",v1.1,215,Tách từng xe rõ; cụm không tách được dùng ignore ôm sát.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C201,img_030.jpg,Đề xuất: Vẽ lại từng xe sát cạnh trái.,"R-01,R-11,R-12,R-13",v1.1,215,Không gộp xe xanh và xe đỏ; truncated=yes cho xe bị cắt.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C202,img_030.jpg,"Siết riêng xe đỏ bên phải, truncated=yes, occluded_level=2.","R-01,R-11,R-12",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C203,img_030.jpg,"Vẽ lại theo đúng xe đỏ giữa ảnh, giữ gương, truncated=yes ở mép dưới.","R-01,R-11,R-12",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C204,img_030.jpg,"Lấy box 215 làm mốc, giữ gương/tay lái của đúng xe, truncated=yes, occluded_level=1.","R-01,R-11,R-12",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C205,img_030.jpg,Đề xuất: Tách xe kem và xe đỏ.,"R-01,R-11,R-13",v1.1,215,"Mỗi xe một box; giữ phần thấy, bỏ người và xe bên cạnh.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C206,img_030.jpg,Đề xuất: Tách các xe hàng giữa.,"R-01,R-11,R-13",v1.1,215,Bỏ người áo xanh khỏi box; không gộp nhiều yên/biển số vào một xe.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C207,img_030.jpg,Giữ person.,R-11,v1.1,215,"occluded_level=1, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C208,img_030.jpg,"Vẽ lại theo đúng xe đỏ giữa ảnh, giữ gương, truncated=yes ở mép dưới.","R-01,R-11,R-12",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C209,img_030.jpg,"Lấy box 215 làm mốc, giữ gương/tay lái của đúng xe, truncated=yes, occluded_level=1.","R-01,R-11,R-12",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C210,img_030.jpg,Đề xuất: Tách xe kem và xe đỏ.,"R-01,R-11,R-13",v1.1,215,"Mỗi xe một box; giữ phần thấy, bỏ người và xe bên cạnh.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C211,img_030.jpg,Đề xuất: Tách các xe hàng giữa.,"R-01,R-11,R-13",v1.1,215,Bỏ người áo xanh khỏi box; không gộp nhiều yên/biển số vào một xe.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C212,img_031.jpg,"Bổ sung car 215, siết không lấy xe tối bên phải.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C213,img_031.jpg,"Bổ sung person nhưng vẽ lại theo đầu/thân người, không lấy đèn/bánh.","R-01,R-02,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C214,img_031.jpg,"Bổ sung motorcycle 215, occluded_level=1.","R-02,R-11",v1.1,215,tách người C213.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C215,img_031.jpg,"Vẽ lại box person theo đầu, thân và chân nhìn thấy.","R-01,R-02,R-11",v1.1,215,không bao bánh; occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C216,img_031.jpg,"Vẽ lại person sát người, tách xe.","R-01,R-02,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C217,img_031.jpg,"Vẽ sát người, lấy biên trên khoảng y352 và giữ đủ bàn chân đến khoảng y491.",R-01,v1.1,215,không lấy bóng.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C218,img_031.jpg,"Lấy box 215 làm mốc, giữ gương và bánh.",R-01,v1.1,215,"occluded_level=0, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C219,img_031.jpg,Box 215 sát hơn.,"R-01,R-11",v1.1,215,"occluded_level=0, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C220,img_031.jpg,"Giữ person, occluded_level=1.","R-01,R-11",v1.1,215,siết sát đầu và chân.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C221,img_031.jpg,"Lấy box 215 làm mốc, bỏ phản chiếu.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C222,img_031.jpg,Đổi truck của 215 thành bus.,"R-11,R-14",v1.1,215,occluded_level=1 do cột và xe trước che.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C223,img_031.jpg,Đổi truck của 215 thành bus.,"R-11,R-14",v1.1,215,occluded_level=1 do cột và xe trước che.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C224,img_031.jpg,Box 215 sát hơn.,"R-01,R-11",v1.1,215,"occluded_level=0, truncated=no.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C225,img_031.jpg,"Giữ person, occluded_level=1.","R-01,R-11",v1.1,215,siết sát đầu và chân.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C226,img_031.jpg,"Lấy box 215 làm mốc, bỏ phản chiếu.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C227,img_032.jpg,Xóa person C227 của 215.,"R-02,R-07",v1.1,215,không thay bằng ignore.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C228,img_032.jpg,"Bổ sung person 215, occluded_level=0, truncated=no.",R-02,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C229,img_032.jpg,"Bổ sung person 215, occluded_level=1.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C230,img_032.jpg,"Bổ sung person 215, occluded_level=1.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C231,img_032.jpg,"Thu box vào phần xe nhìn thấy, không bao vật phía dưới.","R-01,R-11",v1.1,215,occluded_level=2.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C232,img_032.jpg,"Bổ sung person 215, occluded_level=0.",R-02,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C233,img_032.jpg,"Bổ sung person 215, occluded_level=1.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C234,img_032.jpg,"Bổ sung person 215, occluded_level=0.",R-02,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C235,img_032.jpg,"Bổ sung person 215, occluded_level=1.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C236,img_032.jpg,"Bổ sung person 215, occluded_level=0.",R-02,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C237,img_032.jpg,"Bổ sung person 215, occluded_level=0.",R-02,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C238,img_032.jpg,"Bổ sung person 215, occluded_level=0.",R-02,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C239,img_032.jpg,"Lấy box 215, occluded_level=1, truncated=no.","R-01,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C240,img_032.jpg,"Đặt occluded_level=0, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C241,img_032.jpg,Đặt occluded_level=0.,R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C242,img_032.jpg,"Đặt truncated=yes, occluded_level=0.",R-12,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C243,img_032.jpg,Đặt occluded_level=0.,R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C244,img_032.jpg,Đặt occluded_level=0.,R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C245,img_032.jpg,Đề xuất occluded_level=0.,R-11,v1.1,215,reviewer kiểm phần cánh tay sát người bên cạnh.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C246,img_032.jpg,Đề xuất: Đổi xe trắng sau nhà chờ thành van.,"R-11,R-14",v1.1,215,"occluded_level=1, truncated=no; khung nhà chờ che xe.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C247,img_032.jpg,Đặt occluded_level=0.,R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C248,img_032.jpg,"Lấy biên trên của 199, siết theo người.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C249,img_032.jpg,Đặt occluded_level=0.,R-11,v1.1,215,tay của chính người không tính là vật khác che.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C250,img_034.jpg,Gộp box trùng C261.,"R-01,R-11,R-12",v1.1,215,"Giữ một motorcycle theo 204; truncated=yes, occluded_level=1.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C251,img_034.jpg,"Bổ sung motorcycle 215, occluded_level=1.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C252,img_034.jpg,Vẽ person riêng theo người lái.,"R-01,R-02,R-11",v1.1,215,tách hành khách nếu chưa có box; occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C253,img_034.jpg,"Bổ sung person 215, occluded_level=1.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C254,img_034.jpg,"Vẽ sát đầu, thân, tay/chân nhìn thấy.","R-01,R-02,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C255,img_034.jpg,"Bổ sung person 215, occluded_level=2.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C256,img_034.jpg,"Thu person theo người, không lấy đèn/vỏ xe.","R-01,R-02,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C257,img_034.jpg,"Bổ sung motorcycle 215, occluded_level=1.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C258,img_034.jpg,"Bổ sung motorcycle 215, occluded_level=1.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C259,img_034.jpg,Thu person theo đầu và thân nhìn thấy.,"R-01,R-02,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C260,img_034.jpg,"Vẽ lại đúng một xe máy, bỏ đầu/người và xe đạp khác.","R-01,R-02,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C261,img_034.jpg,Gộp cùng C250.,"R-01,R-12",v1.1,215,Không thêm xe thứ hai; truncated=yes.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C262,img_034.jpg,Xóa box person trùng của 215.,"R-01,R-02",v1.1,215,giữ một box sát người theo C264/C275.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C263,img_034.jpg,"Lấy box 215 làm mốc, giữ bánh dưới.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C264,img_034.jpg,"Lấy box 215, occluded_level=1.","R-01,R-11",v1.1,215,không giữ thêm C262.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C265,img_034.jpg,"Lấy box 215 làm mốc, siết không lấy chân người, occluded_level=1.","R-01,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C266,img_034.jpg,"Lấy biên trái của 215, giữ toàn phần xe nhìn thấy.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C267,img_034.jpg,Đặt truncated=yes.,R-12,v1.1,215,occluded_level=0 nếu không bị vật khác che.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C268,img_034.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C269,img_034.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C270,img_034.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C271,img_034.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C272,img_034.jpg,Đặt occluded_level=1.,R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C273,img_034.jpg,Đặt occluded_level=1.,R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C274,img_034.jpg,"Lấy box 215 làm mốc, giữ bánh dưới.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C275,img_034.jpg,"Lấy box 215, occluded_level=1.","R-01,R-11",v1.1,215,không giữ thêm C262.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C276,img_034.jpg,"Lấy box 215 làm mốc, giữ phần tay lái nhìn thấy.","R-01,R-11",v1.1,215,occluded_level=2.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C277,img_034.jpg,"Lấy box 215 làm mốc, siết không lấy chân người, occluded_level=1.","R-01,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C278,img_034.jpg,"Lấy biên trái của 215, giữ toàn phần xe nhìn thấy.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C279,img_035.jpg,"Lấy box 215 làm mốc, không lấy bánh xe.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C280,img_035.jpg,Vẽ lại từ mái cabin thật khoảng y214 xuống bánh khoảng y407.,"R-01,R-04",v1.1,215,"kiểm gương/khung cố định, không bao bao tải.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C281,img_035.jpg,"Lấy box 215 làm mốc, giữ đủ nóc và bánh.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C282,img_035.jpg,"Đặt occluded_level=0, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C283,img_035.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C284,img_035.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C285,img_035.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C286,img_035.jpg,"Lấy box 215 làm mốc, không lấy bánh xe.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C287,img_035.jpg,Đề xuất: Tách người trong cabin tuk-tuk.,"R-01,R-02,R-11",v1.1,215,Mỗi đầu/thân nhận dạng được một person; occluded_level=2.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C288,img_035.jpg,"Lấy box 215 làm mốc, giữ đủ nóc và bánh.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C289,img_037.jpg,"Giữ truck, occluded_level=0, truncated=no.","R-14,R-13",v1.1,215,reviewer xác nhận lớp rồi tắt cờ.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C290,img_037.jpg,"Chốt cùng C289, không tạo hai xe.","R-14,R-13",v1.1,215,giữ truck.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C291,img_039.jpg,Bổ sung person 199 cho bản thiếu.,"R-02,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C292,img_039.jpg,"Mở box sát toàn xích lô nhìn thấy, gồm khoang ghế ở bên trái.","R-01,R-14",v1.1,215,không gộp người đứng cạnh.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C293,img_039.jpg,"Bổ sung motorcycle 215, truncated=yes, occluded_level=1.","R-02,R-11,R-12",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C294,img_039.jpg,Xóa person trùng C294 của 215.,"R-01,R-02",v1.1,215,giữ một box đầy đủ theo C306.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C295,img_039.jpg,"Bổ sung motorcycle 215, occluded_level=2.","R-02,R-11",v1.1,215,không gộp xe bên cạnh.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C296,img_039.jpg,"Bổ sung motorcycle 215, occluded_level=1.","R-02,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C297,img_039.jpg,Đề xuất: Giữ một người lái xe ở xa.,"R-01,R-02,R-11",v1.1,215,"Siết box theo người, tách khỏi xe và người áo vàng phía sau.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C298,img_039.jpg,"Lấy box 215 làm mốc, giữ gương đúng xe.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C299,img_039.jpg,"Vẽ lại person theo đầu, tay và chân nhìn thấy.","R-01,R-11",v1.1,215,không lấy yếm/bánh; occluded_level=2.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C300,img_039.jpg,"Siết theo xe, giữ tay lái, bỏ bàn chân.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C301,img_039.jpg,"Giữ xe 215 làm mốc, không gộp xe đỏ bên trái.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C302,img_039.jpg,"Đề xuất occluded_level=0, truncated=no.",R-11,v1.1,215,kiểm phần bị mép cửa che.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C303,img_039.jpg,"Đặt occluded_level=0, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C304,img_039.jpg,"Đặt occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C305,img_039.jpg,"Lấy box 215, occluded_level=0, truncated=no.","R-01,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C306,img_039.jpg,"Giữ một person theo C306, occluded_level=0, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C307,img_039.jpg,"Vẽ person sát phần người, bỏ bánh xe, occluded_level=1.","R-01,R-11",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C308,img_039.jpg,"Lấy box 215 làm mốc, không lấy chân người.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C309,img_039.jpg,"Lấy box 215 làm mốc, giữ gương đúng xe.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C310,img_039.jpg,"Vẽ lại person theo đầu, tay và chân nhìn thấy.","R-01,R-11",v1.1,215,không lấy yếm/bánh; occluded_level=2.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C311,img_039.jpg,"Siết theo xe, giữ tay lái, bỏ bàn chân.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C312,img_039.jpg,"Giữ xe 215 làm mốc, không gộp xe đỏ bên trái.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C313,img_040.jpg,Gộp cùng xe C314.,"R-01,R-11",v1.1,215,Siết box theo mái xe; occluded_level=2.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C314,img_040.jpg,Gộp cùng xe C313.,"R-01,R-11",v1.1,215,Giữ đủ mái và đầu xe; occluded_level=2.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C315,img_040.jpg,Xóa car 215.,"R-07,R-14",v1.1,215,đèn TAXI là bộ phận của phương tiện.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C316,img_040.jpg,"Lấy box 204 làm mốc, đủ bánh và thân xe.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C317,img_040.jpg,"Đặt truncated=yes, occluded_level=1.","R-11,R-12",v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C318,img_040.jpg,"Giữ car, occluded_level=1, truncated=no.",R-11,v1.1,215,Chờ áp dụng trên CVAT.,Đã sửa COCO; chờ 190 kiểm lại.,anh
+C319,img_040.jpg,Đề xuất: Giữ bus phía sau SUV.,"R-11,R-12",v1.1,215,"occluded_level=2, truncated=yes; lấy đủ nóc còn thấy.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C320,img_040.jpg,Giữ car theo 204.,"R-01,R-11,R-12",v1.1,215,"Lấy đủ biển nóc; truncated=yes, occluded_level=2.",Đã sửa COCO; chờ 190 kiểm lại.,anh
+C321,img_040.jpg,"Lấy box 204 làm mốc, đủ bánh và thân xe.","R-01,R-11",v1.1,215,occluded_level=1.,Đã sửa COCO; chờ 190 kiểm lại.,anh
